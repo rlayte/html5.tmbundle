@@ -3,6 +3,13 @@
 
 A collection of HTML5 and other snippets I've found useful which aren't included in the default HTML bundle. HTML5 is used loosely, mainly to distinguish itself from the default bundle.
 
+Includes:
+
++ HTML5 doctype templates
++ Google hosted code library links
++ HTML5 element snippets (Video, Audio, Article, Header, etc.)
++ more
+
 Some of the snippets are from the mHTML bundle available from [Minimal Designs](http://minimaldesign.net/downloads/tools/textmate-html-bundle).
 
 ## How To Install
