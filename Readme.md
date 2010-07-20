@@ -1,6 +1,6 @@
 
-# README
---------
+README
+===
 
 A collection of snippets I've found useful which aren't included in the default HTML bundle.
 
