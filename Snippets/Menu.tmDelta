@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>content</key>
+		<string>&lt;menu&gt;
+	&lt;li&gt;&lt;input type="${1:text/submit/hidden/button}"${2: name="$3"}${4: value="${5:$3}"}${6: id="${7:$3}"} /&gt;&lt;/li&gt;$0
+&lt;/menu&gt;
+</string>
+	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>4092893F-64B6-4B97-8359-00B5A7371973</string>
+</dict>
+</plist>
