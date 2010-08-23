@@ -36,17 +36,59 @@ Reload the bundles either from the Textmate menu or
 
 ## Snippets
 
-+ a (absolute) : a
-+ a (relative) : a
+Tab triggers and/or keyboard shortcuts where appropriate.
+
++ link (absolute) : a
++ link (relative) : a
 + abbreviation : abbr
 + article : art
 + aside : aside
 + audio : audio
-+ br : br, shift+enter
++ line break : br, shift+enter
 + blockquote : bq
 + canvas : canvas
 + cite : cite
 + clear : clear
++ code : code
++ details : details
++ div : div
++ detailed list : dl
++ detailed item : dt
++ fieldset : fie
++ figure : figure
++ footer : footer
++ form : form
++ heading 1 : h1
++ heading 2 : h2
++ heading 3 : h3
++ heading 4 : h4
++ heading 5 : h5
++ heading 6 : h6
++ header : header
++ HTML5 : html5
++ image : img
++ label : lab
++ legend : leg
++ list item : li
++ menu : menu
++ nav : nav
++ wrap selected items in nav/li : ctrl+apple+l
++ ordered list : ol
++ option : opt
++ option group : optgr
++ paragraph : p
++ pre : pre
++ progress: progress
++ quote : q
++ section : section
++ select : sel
++ source : source
++ span : span
++ textarea : tex
++ unordered list : ul
++ wrap selected items in ul : ctrl+apple+l
++ wrap selected items in ul/links : ctrl+apple+l
++ video : video
 
 ## License 
 
