@@ -5,10 +5,10 @@ A collection of HTML5 and other snippets I've found useful which aren't included
 
 Includes:
 
-+ HTML5 doctype templates
-+ Google hosted code library links
-+ HTML5 element snippets (Video, Audio, Article, Header, etc.)
-+ more
++ HTML5 templates
++ HTML5 element snippets (e.g. video, canvas, article, header, etc.)
++ Other useful snippets not included in the default HTML bundle (e.g. img, h1-6, a, etc.)
++ Google hosted code library links (e.g. jquery, yui, swfobject etc.)
 
 Some of the snippets are from the mHTML bundle available from [Minimal Designs](http://minimaldesign.net/downloads/tools/textmate-html-bundle).
 
@@ -33,6 +33,13 @@ Reload the bundles either from the Textmate menu or
 + click on the download soruce link near the top of the page.
 + unzip and rename folder to html5.tmbundle
 + double click on the bundle
+
+## Snippets
+
++ a (absolute)	: a
++ a (relative)	: a
++ abbreviation	: abbr
++ article		: art
 
 ## License 
 
