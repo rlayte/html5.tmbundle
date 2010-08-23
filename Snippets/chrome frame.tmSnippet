@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script src="http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/yuiloader/yuiloader-min.js" type="text/javascript" charset="utf-8"&gt;&lt;/script&gt;</string>
+	<key>name</key>
+	<string>chrome frame</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>chrome</string>
+	<key>uuid</key>
+	<string>1B5E6A2F-73C3-40F7-830D-E03D5A2753B5</string>
+</dict>
+</plist>

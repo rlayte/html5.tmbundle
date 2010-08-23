@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;canvas${1: id="${2:id}"}&gt;
+	${2:&lt;p&gt;You need a newer browser to view this content.&lt;/p&gt;}
+&lt;/canvas&gt;$0</string>
+	<key>name</key>
+	<string>canvas</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>canvas</string>
+	<key>uuid</key>
+	<string>8B4D9FE2-5686-4B46-A6E3-91D15A41E56C</string>
+</dict>
+</plist>

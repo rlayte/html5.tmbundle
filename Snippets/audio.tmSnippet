@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;audio${1: id="${2:id}"} src="${3:audio}"&gt;
+	${4:&lt;p&gt;You need a newer browser to view this content.&lt;/p&gt;}
+&lt;/audio&gt;$0</string>
+	<key>name</key>
+	<string>audio</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>audio</string>
+	<key>uuid</key>
+	<string>89A57CE8-F67D-4230-9BD1-D3E73A2B1B3D</string>
+</dict>
+</plist>
