@@ -90,6 +90,22 @@ Tab triggers and/or keyboard shortcuts where appropriate.
 + wrap selected items in ul/links : ctrl+apple+l
 + video : video
 
+## Code library links
+
+Tab triggers.
+
++ jquery : jquery
++ jqueryui : jqueryui
++ yui : yui
++ prototype : prototype
++ script.aculo.us : scripty
++ dojo : dojo
++ mootools : mootools
++ ext : extjs
++ swfobject : swfobject
++ chrome frame : chrome
++ google web font loader : webfonts
+
 ## License 
 
 (The MIT License)
