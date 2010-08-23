@@ -36,10 +36,17 @@ Reload the bundles either from the Textmate menu or
 
 ## Snippets
 
-+ a (absolute)	: a
-+ a (relative)	: a
-+ abbreviation	: abbr
-+ article		: art
++ a (absolute) : a
++ a (relative) : a
++ abbreviation : abbr
++ article : art
++ aside : aside
++ audio : audio
++ br : br, shift+enter
++ blockquote : bq
++ canvas : canvas
++ cite : cite
++ clear : clear
 
 ## License 
 
