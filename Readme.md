@@ -22,7 +22,7 @@ Open Terminal and navigate to the Textmate application support folder, i.e.
 
 Clone the git repository
 
-`git clone git@github.com:rlayte/HTML5-Textmate-Bundle.git html5.tmbundle`
+`git clone git@github.com:rlayte/html5.tmbundle.git`
 
 Reload the bundles either from the Textmate menu or
 
