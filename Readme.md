@@ -20,7 +20,7 @@ Some of the snippets are from the mHTML bundle available from [Minimal Designs](
 + article : art &#x21E5;
 + aside : aside &#x21E5;
 + audio : audio &#x21E5;
-+ line break : br, shift+enter &#x21E5;
++ line break : br &#x21E5;, &#x21E7; &#x21A9;
 + blockquote : bq &#x21E5;
 + canvas : canvas &#x21E5;
 + cite : cite &#x21E5;
@@ -48,7 +48,7 @@ Some of the snippets are from the mHTML bundle available from [Minimal Designs](
 + list item : li &#x21E5;
 + menu : menu &#x21E5;
 + nav : nav &#x21E5;
-+ wrap selected items in nav/li : ctrl+apple+l &#x21E5;
++ wrap selected items in nav/li : &#x2303; &#x2318; l
 + ordered list : ol &#x21E5;
 + option : opt &#x21E5;
 + option group : optgr &#x21E5;
@@ -62,8 +62,8 @@ Some of the snippets are from the mHTML bundle available from [Minimal Designs](
 + span : span &#x21E5;
 + textarea : tex &#x21E5;
 + unordered list : ul &#x21E5;
-+ wrap selected items in ul : ctrl+apple+l &#x21E5;
-+ wrap selected items in ul/links : ctrl+apple+l &#x21E5;
++ wrap selected items in ul : &#x2303; &#x2318; l
++ wrap selected items in ul/links : &#x2303; &#x2318; l
 + video : video &#x21E5;
 
 **Code library links**
