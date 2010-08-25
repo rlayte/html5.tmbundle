@@ -12,6 +12,74 @@ Includes:
 
 Some of the snippets are from the mHTML bundle available from [Minimal Designs](http://minimaldesign.net/downloads/tools/textmate-html-bundle).
 
+## Snippets
+
++ link (absolute) : a &#x21E5;
++ link (relative) : a &#x21E5;
++ abbreviation : abbr &#x21E5;
++ article : art &#x21E5;
++ aside : aside &#x21E5;
++ audio : audio &#x21E5;
++ line break : br, shift+enter &#x21E5;
++ blockquote : bq &#x21E5;
++ canvas : canvas &#x21E5;
++ cite : cite &#x21E5;
++ clear : clear &#x21E5;
++ code : code &#x21E5;
++ details : details &#x21E5;
++ div : div &#x21E5;
++ detailed list : dl &#x21E5;
++ detailed item : dt &#x21E5;
++ fieldset : fie &#x21E5;
++ figure : figure &#x21E5;
++ footer : footer &#x21E5;
++ form : form &#x21E5;
++ heading 1 : h1 &#x21E5;
++ heading 2 : h2 &#x21E5;
++ heading 3 : h3 &#x21E5;
++ heading 4 : h4 &#x21E5;
++ heading 5 : h5 &#x21E5;
++ heading 6 : h6 &#x21E5;
++ header : header &#x21E5;
++ HTML5 : html5 &#x21E5;
++ image : img &#x21E5;
++ label : lab &#x21E5;
++ legend : leg &#x21E5;
++ list item : li &#x21E5;
++ menu : menu &#x21E5;
++ nav : nav &#x21E5;
++ wrap selected items in nav/li : ctrl+apple+l &#x21E5;
++ ordered list : ol &#x21E5;
++ option : opt &#x21E5;
++ option group : optgr &#x21E5;
++ paragraph : p &#x21E5;
++ pre : pre &#x21E5;
++ progress: progress &#x21E5;
++ quote : q &#x21E5;
++ section : section &#x21E5;
++ select : sel &#x21E5;
++ source : source &#x21E5;
++ span : span &#x21E5;
++ textarea : tex &#x21E5;
++ unordered list : ul &#x21E5;
++ wrap selected items in ul : ctrl+apple+l &#x21E5;
++ wrap selected items in ul/links : ctrl+apple+l &#x21E5;
++ video : video &#x21E5;
+
+**Code library links**
+
++ jquery : jquery &#x21E5;
++ jqueryui : jqueryui &#x21E5;
++ yui : yui &#x21E5;
++ prototype : prototype &#x21E5;
++ script.aculo.us : scripty &#x21E5;
++ dojo : dojo &#x21E5;
++ mootools : mootools &#x21E5;
++ ext : extjs &#x21E5;
++ swfobject : swfobject &#x21E5;
++ chrome frame : chrome &#x21E5;
++ google web font loader : webfonts &#x21E5;
+
 ## How To Install
 
 **Using git**
@@ -33,78 +101,6 @@ Reload the bundles either from the Textmate menu or
 + click on the download soruce link near the top of the page.
 + unzip and rename folder to html5.tmbundle
 + double click on the bundle
-
-## Snippets
-
-Tab triggers and/or keyboard shortcuts where appropriate.
-
-+ link (absolute) : a
-+ link (relative) : a
-+ abbreviation : abbr
-+ article : art
-+ aside : aside
-+ audio : audio
-+ line break : br, shift+enter
-+ blockquote : bq
-+ canvas : canvas
-+ cite : cite
-+ clear : clear
-+ code : code
-+ details : details
-+ div : div
-+ detailed list : dl
-+ detailed item : dt
-+ fieldset : fie
-+ figure : figure
-+ footer : footer
-+ form : form
-+ heading 1 : h1
-+ heading 2 : h2
-+ heading 3 : h3
-+ heading 4 : h4
-+ heading 5 : h5
-+ heading 6 : h6
-+ header : header
-+ HTML5 : html5
-+ image : img
-+ label : lab
-+ legend : leg
-+ list item : li
-+ menu : menu
-+ nav : nav
-+ wrap selected items in nav/li : ctrl+apple+l
-+ ordered list : ol
-+ option : opt
-+ option group : optgr
-+ paragraph : p
-+ pre : pre
-+ progress: progress
-+ quote : q
-+ section : section
-+ select : sel
-+ source : source
-+ span : span
-+ textarea : tex
-+ unordered list : ul
-+ wrap selected items in ul : ctrl+apple+l
-+ wrap selected items in ul/links : ctrl+apple+l
-+ video : video
-
-## Code library links
-
-Tab triggers.
-
-+ jquery : jquery
-+ jqueryui : jqueryui
-+ yui : yui
-+ prototype : prototype
-+ script.aculo.us : scripty
-+ dojo : dojo
-+ mootools : mootools
-+ ext : extjs
-+ swfobject : swfobject
-+ chrome frame : chrome
-+ google web font loader : webfonts
 
 ## License 
 
