@@ -18,7 +18,7 @@ Some of the snippets are from the mHTML bundle available from [Minimal Designs](
 
 Open Terminal and navigate to the Textmate application support folder, i.e.
 
-`cd Users/Your\ Name/Library/Application\ Support/TextMate/Bundles/`
+`cd ~/Library/Application\ Support/TextMate/Bundles/`
 
 Clone the git repository
 
